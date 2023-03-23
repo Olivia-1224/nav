@@ -1,0 +1,2 @@
+navigation/src/amcl:navigation/src/base_local_planner:navigation/src/carrot_planner:navigation/src/clear_costmap_recovery:navigation/src/costmap_2d:navigation/src/dwa_local_planner:navigation/src/fake_localization:navigation/src/global_planner:navigation/src/map_server:navigation/src/move_base:navigation/src/move_slow_and_clear:navigation/src/nav_core:navigation/src/navfn:navigation/src/navigation:navigation/src/rotate_recovery:navigation/src/voxel_grid
+-DCATKIN_DEVEL_PREFIX=/home/olivia/nav_ws/devel -DCMAKE_INSTALL_PREFIX=/home/olivia/nav_ws/install -G Unix Makefiles

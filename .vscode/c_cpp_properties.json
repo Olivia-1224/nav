@@ -1,0 +1,42 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/olivia/nav_ws/devel/include/**",
+        "/home/olivia/DEMO05_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/olivia/cartographer_ws/devel_isolated/ceres-solver/include/**",
+        "/home/olivia/cartographer_ws/devel_isolated/ceres-solver/include/**",
+        "/home/olivia/cartographer_ws/devel_isolated/cartographer/include/**",
+        "/home/olivia/nav_ws/src/navigation/src/amcl/include/**",
+        "/home/olivia/nav_ws/src/navigation/src/base_local_planner/include/**",
+        "/home/olivia/nav_ws/src/navigation/src/carrot_planner/include/**",
+        "/home/olivia/nav_ws/src/navigation/src/clear_costmap_recovery/include/**",
+        "/home/olivia/nav_ws/src/navigation/src/costmap_2d/include/**",
+        "/home/olivia/nav_ws/src/navigation/src/dwa_local_planner/include/**",
+        "/home/olivia/nav_ws/src/navigation/src/global_planner/include/**",
+        "/home/olivia/nav_ws/src/navigation/src/map_server/include/**",
+        "/home/olivia/DEMO05_ws/src/map_to_odom0915/include/**",
+        "/home/olivia/nav_ws/src/navigation/src/move_base/include/**",
+        "/home/olivia/nav_ws/src/navigation/src/move_slow_and_clear/include/**",
+        "/home/olivia/nav_ws/src/navigation/src/nav_core/include/**",
+        "/home/olivia/nav_ws/src/navigation/src/navfn/include/**",
+        "/home/olivia/nav_ws/src/navigation/src/rotate_recovery/include/**",
+        "/home/olivia/DEMO05_ws/src/show_path/include/**",
+        "/home/olivia/DEMO05_ws/src/teb_local_planner-melodic-devel/include/**",
+        "/home/olivia/nav_ws/src/navigation/src/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
